@@ -10,6 +10,15 @@
       }
     },
     {
+      "type": "text",
+      "action": "add",
+      "args": {
+        "name": "antifilter-community",
+        "uri": "https://community.antifilter.download/list/community.lst",
+        "onlyIPType": "ipv4"
+      }
+    },
+    {
       "type": "private",
       "action": "add"
     }
@@ -20,7 +29,7 @@
       "action": "output",
       "args": {
         "outputName": "antifilter.dat",
-        "wantedList": ["antifilter", "private"]
+        "wantedList": ["antifilter", "antifilter-community", "private"]
       }
     }
   ]
