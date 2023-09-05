@@ -28,7 +28,7 @@
       "type": "v2rayGeoIPDat",
       "action": "output",
       "args": {
-        "outputName": "antifilter.dat",
+        "outputName": "geoip.dat",
         "wantedList": ["antifilter", "antifilter-community", "private"]
       }
     }
