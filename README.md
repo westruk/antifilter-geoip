@@ -4,4 +4,4 @@
 
 ## Ссылки на скачивание последнего листа
 
-- **antifilter.dat**：<https://github.com/schebotar/antifilter/releases/latest/download/antifilter.dat>
+- **geoip.dat**：<https://github.com/schebotar/antifilter/releases/latest/download/geoip.dat>
