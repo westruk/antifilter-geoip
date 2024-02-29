@@ -8,7 +8,7 @@
 
 ## Ссылки на скачивание
 
-- **geoip.dat**：<https://github.com/schebotar/antifilter/releases/latest/download/geoip.dat>
+- **geoip.dat**：<https://github.com/1andrevich/antifilter/releases/latest/download/geoip.dat>
 
 ## Пример использования
 
