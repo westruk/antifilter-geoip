@@ -4,7 +4,7 @@
 Сборка проводится автоматически еженедельно через GitHub Actions
 
 ## Использованные списки
-- Файл ```geoip.dat``` собирается на основе списка <https://community.antifilter.download/list/community.lst>
+- Файл ```geoip.dat``` собирается на основе списка <https://community.antifilter.download/list/allyouneed.lst>
 
 ## Ссылки на скачивание
 
